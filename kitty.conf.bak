@@ -1074,9 +1074,3 @@ disable_ligatures never
 
 # Override settings
 include ./override.conf
-
-
-# BEGIN_KITTY_THEME
-# Catppuccin-Frappe
-include current-theme.conf
-# END_KITTY_THEME
